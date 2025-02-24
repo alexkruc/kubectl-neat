@@ -2,7 +2,7 @@ module github.com/itaysk/kubectl-neat
 
 go 1.22.0
 
-toolchain go1.22.5
+toolchain go1.22.7
 
 require (
 	github.com/ghodss/yaml v1.0.0
@@ -13,7 +13,7 @@ require (
 	github.com/tidwall/sjson v1.0.4
 	k8s.io/apimachinery v0.30.2
 	k8s.io/client-go v0.30.2
-	k8s.io/kubernetes v1.30.2
+	k8s.io/kubernetes v1.30.3
 )
 
 require (
